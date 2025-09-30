@@ -79,6 +79,5 @@ O sistema utiliza três arquivos JSON como "banco de dados":
 
 ## Autor
 
-Igor Silveira  
-Projeto desenvolvido como exercício de manipulação de arquivos JSON e lógica de negócios em Java.
+Igor Profeta Silveira  
 
