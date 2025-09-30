@@ -1,0 +1,26 @@
+[
+  {
+    "idLocacao": "123e4567-e89b-12d3-a456-426614174000",
+    "cpfCliente": "111.222.333-44",
+    "tituloItem": "Matrix",
+    "dataLocacao": "2025-09-25T15:40:12",
+    "dataDevolucao": "2025-10-02T15:40:12",
+    "status": "Alugado"
+  },
+  {
+    "idLocacao": "67c54c7f-82a0-4aa7-b9d2-53a9ebe71d30",
+    "cpfCliente": "111.111.111-11",
+    "tituloItem": "O Poderoso Chefão",
+    "dataLocacao": "2025-09-29T22:32:40.3815555",
+    "dataDevolucao": "2025-10-06T22:32:40.3815555",
+    "status": "Alugado"
+  },
+  {
+    "idLocacao": "9b726461-7ae3-4231-9c07-13c7d6b17e57",
+    "cpfCliente": "222.222.222-22",
+    "tituloItem": "O Poderoso Chefão",
+    "dataLocacao": "2025-09-29T22:41:31.0488202",
+    "dataDevolucao": "2025-10-06T22:41:31.0488202",
+    "status": "Alugado"
+  }
+]

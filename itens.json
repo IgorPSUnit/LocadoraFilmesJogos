@@ -1,0 +1,98 @@
+[
+  {
+    "idItem": "I001",
+    "titulo": "O Poderoso Chefão",
+    "categoria": "Filme",
+    "anoLancamento": 1972,
+    "classificacao": "16+",
+    "quantCopias": 3
+  },
+  {
+    "idItem": "I002",
+    "titulo": "Vingadores: Ultimato",
+    "categoria": "Filme",
+    "anoLancamento": 2019,
+    "classificacao": "12+",
+    "quantCopias": 10
+  },
+  {
+    "idItem": "I003",
+    "titulo": "The Last of Us Part II",
+    "categoria": "Jogo",
+    "anoLancamento": 2020,
+    "classificacao": "18+",
+    "quantCopias": 3
+  },
+  {
+    "idItem": "I004",
+    "titulo": "FIFA 24",
+    "categoria": "Jogo",
+    "anoLancamento": 2024,
+    "classificacao": "Livre",
+    "quantCopias": 8
+  },
+  {
+    "idItem": "9ec2f54e-b517-4f43-947f-3cd57887969c",
+    "titulo": "FIFA 24",
+    "categoria": "Jogo",
+    "anoLancamento": 2023,
+    "classificacao": "Livre",
+    "quantCopias": 0
+  },
+  {
+    "idItem": "a583db2f-2811-4b84-829e-a4326172d875",
+    "titulo": "Fifa 23",
+    "categoria": "Jogo",
+    "anoLancamento": 23,
+    "classificacao": "Livre",
+    "quantCopias": 0
+  },
+  {
+    "idItem": "180e2403-20d9-40ac-8a29-f93afb5566fa",
+    "titulo": "Fifa 23",
+    "categoria": "Jogo",
+    "anoLancamento": 23,
+    "classificacao": "Livre",
+    "quantCopias": 0
+  },
+  {
+    "idItem": "047e2124-fbc7-4230-95d2-2a857abfca3a",
+    "titulo": "FIFA 25",
+    "categoria": "Jogo",
+    "anoLancamento": 25,
+    "classificacao": "Livre",
+    "quantCopias": 0
+  },
+  {
+    "idItem": "1b4a4f95-d90e-459b-9cf3-5d94393753bb",
+    "titulo": "Vingadores: Ultimato",
+    "categoria": "Filme",
+    "anoLancamento": 2019,
+    "classificacao": "12+",
+    "quantCopias": 0
+  },
+  {
+    "idItem": "3a343188-9434-4c43-9fcc-b7f76c4ab38b",
+    "titulo": "Vingadores: Ultimato",
+    "categoria": "Filme",
+    "anoLancamento": 2019,
+    "classificacao": "12+",
+    "quantCopias": 0
+  },
+  {
+    "idItem": "ff110b67-3f47-4420-8051-223f5c01a8c2",
+    "titulo": "O Poderoso Chefão",
+    "categoria": "Filme",
+    "anoLancamento": 1972,
+    "classificacao": "16+",
+    "quantCopias": 0
+  },
+  {
+    "idItem": "f5cbc0b4-94ff-4a7a-b035-c3368a1d88c0",
+    "titulo": "O Poderoso Chefão",
+    "categoria": "Filme",
+    "anoLancamento": 1972,
+    "classificacao": "16+",
+    "quantCopias": 0
+  }
+]
